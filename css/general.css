@@ -32,9 +32,6 @@ p {
     line-height: 1.5;
 }
 
-li {text-shadow: #999 1px 1px;
-    color: #3a3b57;
-}
-
-iframe {width=50rem;
-        height=50rem;
+iframe {
+        width=1px;
+        height=100px;
