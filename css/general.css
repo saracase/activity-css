@@ -23,15 +23,19 @@ h2 {
 }
 
 h1 + p {
-    font-size: 1rem;
-    line-height: 1.5;
+     font-size: 1rem;
+     line-height: 1.5;
 }
 
 p {
-    font-size: 1rem;
-    line-height: 1.5;
+     font-size: 1rem;
+     line-height: 1.5;
 }
 
-iframe {
-        width=1px;
-        height=100px;
+.videoWrapper iframe {
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 width: 260%;
+	 height: 215%;
+}
